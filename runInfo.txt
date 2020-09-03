@@ -1,0 +1,3 @@
+Notes on compiling and running c++ code
+
+first g++ driver.cpp
